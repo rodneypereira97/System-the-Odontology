@@ -27,15 +27,15 @@
 								<input type="text" class="form-control" id="apellido_cliente" name="apellido_cliente"value="<?php echo $cliente->apellido_cliente ?>">
 							</div>
                             <div class="form-group">
-								<label for="nombre">Nombre:</label>
+								<label for="nombre">Direccion:</label>
 								<input type="text" class="form-control" id="nombre_cliente" name="nombre_cliente"value="<?php echo $cliente->nombre_cliente ?>">
 							</div>
                             <div class="form-group">
-								<label for="nombre">Nombre:</label>
+								<label for="nombre">Telefono:</label>
 								<input type="text" class="form-control" id="nombre_cliente" name="nombre_cliente"value="<?php echo $cliente->nombre_cliente ?>">
 							</div>
 							<div class="form-group">
-								<label for="estado">Estado:</label>
+								<label for="estado">Cedula de Identidad:</label>
 								<input type="text" class="form-control" id="estado" name="estado"value="<?php echo $usuario->estado ?>">
 							</div>
 							<div class="form-group">
